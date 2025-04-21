@@ -7,21 +7,21 @@
 
 ## 🛠️ Tecnologías utilizadas
 
-- [Python] (v3.13)
-- [Dependencia o librería importante]
-- [Google Colab]
+* [Python] (v3.13)
+* [Dependencia o librería importante]
+* [Google Colab]
 
-✨ Funcionalidades destacadas
+## ✨ Funcionalidades destacadas
 
- ✅  Facturación total: Identificar cuál tienda tiene las mayores ventas.
+ ✅  Facturación total: Identifica cuál tienda tiene las mayores ventas.
 
- ✅  Categorías más populares: Determinar qué productos son los más vendidos en cada tienda.
+ ✅  Categorías más populares: Determina qué productos son los más vendidos en cada tienda.
  
- ✅  Promedio de evaluación de clientes: Evaluar la satisfacción de los clientes con cada tienda.
+ ✅  Promedio de evaluación de clientes: Evalúa la satisfacción de los clientes con cada tienda.
 
- ✅ Productos más y menos vendidos: Analizar cuáles son los productos que tienen mejor y peor rendimiento.
+ ✅ Productos más y menos vendidos: Analiza cuáles son los productos que tienen mejor y peor rendimiento.
 
- ✅ Costo promedio de envío: Calcular el costo de envío desde cada tienda hasta los clientes.
+ ✅ Costo promedio de envío: Calcula el costo de envío desde cada tienda hasta los clientes.
 
 👤 Autor
 
