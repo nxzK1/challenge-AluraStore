@@ -1,4 +1,4 @@
-![Badge EN DESARROLLO](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-yellow)
+![Badge FINALIZADO](https://img.shields.io/badge/STATUS-%20FINALIZADO-green)
 
 # 📦 AluraStore - challenge AluraLATAM
 
