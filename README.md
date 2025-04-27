@@ -31,6 +31,15 @@ Contenido del cuaderno:
 - [Pandas - Matplotlib - Numpy - Seaborn - Plotly]
 - [Google Colab]
 
+## 🛠️ Importa las librerias necesarias.
+
+```sh
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+import plotly.express as px
+```
 
 ## 💡 Uso básico
 
@@ -62,4 +71,6 @@ Contenido del cuaderno:
  
 👤 Autor
 
-Nicolás – @nxzK1
+Nicolás – @nxzK1 – nvs.contacto@gmail.com
+Linkedin – https://www.linkedin.com/in/nvaldes00/
+
