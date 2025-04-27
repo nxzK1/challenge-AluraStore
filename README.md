@@ -5,14 +5,18 @@
 > [!NOTE]
 > Proyecto simulación de un caso real en el que se busca ayudar al señor Juan a decidir cual de sus 4 tiendas deberia vender para invertir en su nuevo negocio.
 
-## 🚀 Contenido del Proyecto
+## 🚀 Estructura de Archivos
 
-- `notebooks/`: Cuaderno de Google Colab con todo el análisis.
-- `datasets/`: Datos usados para el proyecto.
+    - `images/`
+     - `Facturacion`
+     - `Calificacion`
+     - `Costo envio`
+     - `Ventas por categoria`
+     - `Mapa`
+    - `AluraStoreLatam.ipynb`
+    - `README.md`
 
 ## 📓 Cuaderno Principal
-
-Accede al cuaderno de Colab aquí: [![Open In Colab](https://colab.research.google.com/github/nxzK1/challenge-AluraStore/blob/Desarrollo%2FGrafico-extra/AluraStoreLatam.ipynb)
 
 Contenido del cuaderno:
 - Análisis exploratorio de datos (EDA).
@@ -27,16 +31,10 @@ Contenido del cuaderno:
 - [Pandas - Matplotlib - Numpy - Seaborn - Plotly]
 - [Google Colab]
 
-challenge-AluraStore
-│
-├── AluraStoreLatam.ipynb
-├── images/ 
-│   └── 
-├── README.md
 
 ## 💡 Uso básico
 
-- Ingresar al google colab predispuesto en el codigo y ejecutar todas las celdas.
+- Ingresar al google colab predispuesto en el archivo AluraStoreLatam.ipynb y ejecutar todas las celdas.
 
 ✨ Funcionalidades destacadas
 
@@ -55,8 +53,13 @@ challenge-AluraStore
  ✅ Análsis geográfico de las ventas.
 
  Resultados del modelo:
- 
 
+ ![Facturacion por tienda](images/fact.png)
+ ![Ventas por categoria](images/Ventas%20por%20categoria.png)
+ ![Caliuficacion por tienda](images/Calificacion%20clientes%20por%20tienda.png)
+ ![Costo de envio promedio](images/Costo%20de%20envío%20promedio.png)
+ ![Mapa ventas por sector](images/mapa%201.png)
+ 
 👤 Autor
 
 Nicolás – @nxzK1
